@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hi there, Iam Ashish
+
+- Vice President Lead SRE at [**JPMorganChase**](https://www.jpmorganchase.com/),leading global financial services firm.
+
+## 🚀 Featured Projects
+- [**DotFiles**](https://github.com/ashish60808/dotfiles) - Best way to store in a bare git repository.
+- [**PublicProfile using Github Pages**](https://github.com/ashish60808/ashish60808.github.io) - Personal website for building CV using html/css/JS.
+
 
 <!--
 **ashish60808/ashish60808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
