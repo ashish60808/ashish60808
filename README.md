@@ -1,6 +1,6 @@
 ## 👋 Hi there, Iam Ashish
 
-- Vice President Lead SRE at [**JPMorganChase**](https://www.jpmorganchase.com/),leading global financial services firm.
+- Vice President - Lead SRE at [**JPMorganChase**](https://www.jpmorganchase.com/),leading global financial services firm.
 
 ## 🚀 Featured Projects
 - [**DotFiles**](https://github.com/ashish60808/dotfiles) - Best way to store in a bare git repository.
@@ -12,11 +12,11 @@ Born and raised in India, I relocated to the Gurgaon, India in 2012 to pursue my
 
 After Orange Business Services, I’ve worked with leading firms in [**healthcare**](https://www.optum.com/en/), [**digital consulting company**](https://www.publicissapient.com/) and [**consulting**](https://www.mckinsey.com/).
 
-I eventually joined [**JPMorganChase**](https://www.jpmorganchase.com/) as an SRE for cloud-native infrastructure.
+I eventually joined [**JPMorganChase**](https://www.jpmorganchase.com/) as SRE for cloud-native infrastructure.
 
 
 ## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashishsre/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ashishkumarsre/)
 
 
 
